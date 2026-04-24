@@ -1,5 +1,8 @@
 # Home Server Virtualization & Security Lab
 
+## 🚧 Project Status
+This project is actively being built and documented. Updates will include virtualization setup, network configuration, and security monitoring implementation.
+
 ## Overview
 
 This project documents the design and deployment of a secure home server environment using Proxmox and Linux-based virtual machines. The lab is built to simulate a small-scale, enterprise-style infrastructure with segmented networks, dedicated system roles, and basic security monitoring.
