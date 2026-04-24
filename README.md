@@ -16,3 +16,7 @@ Originally starting as a standalone Ubuntu desktop, the system is being transfor
 The goal of this project is to design, deploy, and document a secure home server environment using virtualization and structured networking practices. By migrating a Linux desktop to Proxmox, creating virtual machines, and implementing basic security monitoring and administrative controls, this lab serves as a hands-on platform for developing SOC and Security Administration skills.
 
 This environment is used to simulate real-world scenarios such as system hardening, network segmentation, logging, and incident response. The project documents the full process—including setup, challenges, troubleshooting, and improvements—to showcase practical learning and growth in cybersecurity and infrastructure.
+
+## Architecture Diagram
+
+![Network Diagram](architecture/network-architecture-v1.png)
